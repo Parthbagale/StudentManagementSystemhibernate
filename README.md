@@ -11,6 +11,14 @@ Kartik Shankar Gade
 
 # Student Management System 🧑‍🎓
 
+![Java](https://img.shields.io/badge/Java-17-blue) 
+![Maven](https://img.shields.io/badge/Maven-3.8.6-orange)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue)
+![JDBC](https://img.shields.io/badge/JDBC-4.2-green)
+![Hibernate](https://img.shields.io/badge/Hibernate-7.0.5.Final-brightgreen)
+![Platform](https://img.shields.io/badge/Platform-Console--Based-informational)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 A console-based Java application to manage student records using:
 
 - ✅ Hibernate 7.0.5
