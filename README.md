@@ -17,7 +17,7 @@ Kartik Shankar Gade
 ![JDBC](https://img.shields.io/badge/JDBC-4.2-green)
 ![Hibernate](https://img.shields.io/badge/Hibernate-7.0.5.Final-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-Console--Based-informational)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 
 A console-based Java application to manage student records using:
 
